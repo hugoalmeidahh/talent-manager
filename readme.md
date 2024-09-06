@@ -117,4 +117,12 @@ This project is licensed under the MIT License.
 - **Running with Docker**: This part explains how to use Docker to run the project, leveraging `docker-compose` to manage containers, and setting up the database configuration.
 - **Tests**: Provides instructions on how to run the tests both locally and inside the Docker container.
 
+🦸  Autor
+Hello, I'm Hugo Almeida, I'm a fullstack architect and mobile++. I am passionate about technology, programming, processes and planning. I united all these passions in one profession. 
+Questions, suggestions and criticism are very welcome. Follow my contacts.
+
+Developed :bowtie: by Hugo Almeida
+For support or suggestion : hugoalmeidahh@gmail.com
+If you like, don't forget to send stars for this project._
+
 Feel free to adjust or expand it as needed!
